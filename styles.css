@@ -13,7 +13,7 @@
     .nav-wrapper {
         display: flex;
         justify-content: space-between;
-        padding: 38px;
+        padding: 20px;
     }
     
     .left-side {
@@ -21,19 +21,19 @@
     }
 
     .brand{
-        margin-right: 20px;
-        font-size: 0.5em;
+        margin-right: 0px;
+        font-size: 0.9em;
         text-transform: uppercase;
     }
     
     .nav-wrapper > .left-side > div {
-        margin-right: 20px;
-        font-size: 0.5em;
+        margin-right: 10px;
+        font-size: 0.9em;
         text-transform: uppercase;
     }
     
     .nav-link-wrapper {
-        height: 22px;
+        height: auto;
         border-bottom: 1px solid transparent;
         transition: border-bottom 0.5s;
     }
@@ -138,14 +138,14 @@
 {
     /*Nav styles*/
     .brand{
-        margin-right: 20px;
-        font-size: 0.75em;
+        margin-right: 10px;
+        font-size: 1em;
         text-transform: uppercase;
     }
     
     .nav-wrapper > .left-side > div {
         margin-right: 20px;
-        font-size: 0.75em;
+        font-size: 1em;
         text-transform: uppercase;
     }
 
